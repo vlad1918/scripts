@@ -1,0 +1,1 @@
+c:\APPS\IrfanViewPortable\IrfanViewPortable.exe c:\vlad\pictures\cas.jpg /wall=0 /killmesoftly
