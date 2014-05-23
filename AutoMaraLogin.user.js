@@ -7,8 +7,8 @@
 // ==/UserScript==
 
 //=============== ENTER USERNAME AND PASSWORD HERE ===============
-var USERNAME = 'vdima';
-var PASSWORD = 'vdima345';
+var USERNAME = '***';
+var PASSWORD = '***';
 
 //=============== DO NOT MODIFY BELOW THIS LINE ===============
 // create an observer instance
