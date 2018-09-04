@@ -1,4 +1,4 @@
-//npm install --save-dev webpack webpack-dev-server webpack-cli babel-core babel-loader babel-preset-env babel-preset-stage-2 babel-preset-react react-hot-loader
+//npm install --save-dev webpack webpack-dev-server webpack-cli babel-core babel-loader@7.1.5 babel-preset-env babel-preset-stage-2 babel-preset-react react-hot-loader
 //npm install --save react react-dom
 // "start": "webpack-dev-server --config ./webpack.config.js --mode development",
 // "babel": {
